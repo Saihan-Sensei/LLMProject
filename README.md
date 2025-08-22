@@ -1,11 +1,11 @@
-# 🎭 Multimodal Emotion Recognition with EMG and LLMs
+#  Multimodal Emotion Recognition with EMG and LLMs
 
 This project explores **multimodal emotion recognition** by bridging **Electromyography (EMG) biosignals** with **Large Language Models (LLMs)**.  
 We propose a hybrid system that extracts robust features from EMG signals using **CNN/TCN encoders** and translates them into text-like embeddings for instruction-tuned LLMs.  
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 ### Motivation
 - EMG signals are rich in physiological information but often noisy and difficult to interpret.
