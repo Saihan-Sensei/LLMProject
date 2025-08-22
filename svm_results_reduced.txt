@@ -1,0 +1,19 @@
+SVM Accuracy: 0.3633
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       Happy       0.35      0.14      0.20       535
+         Sad       0.53      0.27      0.36       481
+       Angry       0.26      0.26      0.26       482
+     Fearful       0.68      0.58      0.62       485
+   Surprised       0.27      0.73      0.40       510
+   Disgusted       0.40      0.21      0.28       507
+
+    accuracy                           0.36      3000
+   macro avg       0.42      0.36      0.35      3000
+weighted avg       0.41      0.36      0.35      3000
+
+Valid files loaded: 60
+Total samples: 30000
+Class distribution: Counter({np.str_('Happy'): 5000, np.str_('Sad'): 5000, np.str_('Angry'): 5000, np.str_('Fearful'): 5000, np.str_('Surprised'): 5000, np.str_('Disgusted'): 5000})
